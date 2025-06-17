@@ -1,7 +1,8 @@
 # Adaboost
 AdaBoost stands for Adaptive Boosting. It is an ensemble learning technique used to improve the performance of weak classifiers by combining them into a strong classifier.
 
-How AdaBoost Works (Intuition):
+# How AdaBoost Works (Intuition):
+
 Start with all training samples having equal weights.
 
 Train a weak classifier (e.g., a shallow decision tree).
